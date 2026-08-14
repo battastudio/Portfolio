@@ -1,0 +1,37 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .out2 { stroke:#0F2A2E; stroke-width:6; stroke-linejoin:round; stroke-linecap:round; }
+    </style>
+  </defs>
+
+  <!-- head tuft -->
+  <path class="out2" d="M84 44 l3 -20 l10 16 z" fill="#E87A2C"/>
+  <path class="out2" d="M102 42 l9 -17 l7 18 z" fill="#E87A2C"/>
+
+  <!-- head -->
+  <path class="out2" d="M100 40
+    C 56 40 36 76 36 112
+    C 36 152 64 176 100 176
+    C 136 176 164 152 164 112
+    C 164 76 144 40 100 40 Z" fill="#E87A2C"/>
+
+  <!-- face patch -->
+  <path d="M100 92
+    C 74 92 64 112 64 130
+    C 64 154 82 172 100 172
+    C 118 172 136 154 136 130
+    C 136 112 126 92 100 92 Z" fill="#FBEFD9"/>
+
+  <!-- eyes -->
+  <ellipse cx="78" cy="94" rx="18" ry="19" fill="#FFFFFF" class="out2"/>
+  <ellipse cx="122" cy="94" rx="18" ry="19" fill="#FFFFFF" class="out2"/>
+  <circle cx="81" cy="96" r="9" fill="#0F2A2E"/>
+  <circle cx="125" cy="96" r="9" fill="#0F2A2E"/>
+  <circle cx="78" cy="91" r="3.5" fill="#FFFFFF"/>
+  <circle cx="122" cy="91" r="3.5" fill="#FFFFFF"/>
+
+  <!-- bill -->
+  <path class="out2" d="M62 126 q38 -16 76 0 q5 11 0 20 q-38 16 -76 0 q-5 -9 0 -20 Z" fill="#F5A623"/>
+  <path d="M67 142 q33 11 66 0" fill="none" stroke="#C85D1B" stroke-width="4" stroke-linecap="round"/>
+</svg>
