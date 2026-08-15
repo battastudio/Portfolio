@@ -23,7 +23,7 @@ window.BATTA_GAMES = [
     taglineAr: "لعبة جري سريعة بلمسة واحدة. تفادَ، انطلق، واكسر رقمك القياسي.",
     status: "development",
     tags: ["Arcade", "Mobile", "Single-player"],
-    accent: "#E87A2C",
+    accent: "#F98C40",
     emoji: "🏃",
     link: "#"
   },
@@ -34,7 +34,7 @@ window.BATTA_GAMES = [
     taglineAr: "لعبة ألغاز هادئة عن تكبير بركة بكسل صغيرة، بطة بطة.",
     status: "prototype",
     tags: ["Puzzle", "Cozy", "PC"],
-    accent: "#1E5F65",
+    accent: "#2E505E",
     emoji: "🧩",
     link: "#"
   },
@@ -45,7 +45,7 @@ window.BATTA_GAMES = [
     taglineAr: "مغامرة صغيرة من الأعلى. استكشف، اجمع، وساعد السرب.",
     status: "soon",
     tags: ["Adventure", "Pixel-art", "PC"],
-    accent: "#F5C518",
+    accent: "#FFD65B",
     emoji: "🗺️",
     link: "#"
   }

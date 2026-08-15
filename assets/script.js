@@ -60,7 +60,7 @@ function renderGames(){
     const title = LANG === "ar" ? (g.titleAr || g.title) : g.title;
     const tag   = LANG === "ar" ? (g.taglineAr || g.tagline) : g.tagline;
     const st    = STATUS[g.status] || STATUS.soon;
-    const accent = g.accent || "#1E5F65";
+    const accent = g.accent || "#2E505E";
     const tags  = (g.tags || []).map(t=>`<span class="gtag">${t}</span>`).join("");
     return `<a class="gcard reveal in" href="${g.link || '#'}">
       <div class="gcard-top" style="background:${accent}">

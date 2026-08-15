@@ -1,9 +1,9 @@
 /* ===== BATTA STUDIO — public site styles ===== */
 :root{
-  --teal:#1E5F65; --teal-700:#164A4F; --teal-900:#10393E; --teal-950:#0B282C;
-  --orange:#E87A2C; --orange-deep:#C85D1B; --yellow:#F5C518;
-  --cream:#FBEFD9; --white:#FFFFFF; --ink:#0F2A2E;
-  --panel:#14464B; --line:rgba(251,239,217,.14);
+  --teal:#2E505E; --teal-700:#24414C; --teal-900:#1F3A44; --teal-950:#14262D;
+  --orange:#F98C40; --orange-deep:#D66B22; --yellow:#FFD65B;
+  --cream:#FBF4E6; --white:#FFFFFF; --ink:#1C2E33;
+  --panel:#24414C; --line:rgba(251,239,217,.14);
   --f-disp:'Space Grotesk',sans-serif; --f-body:'Inter',sans-serif;
   --f-ar:'Cairo',sans-serif; --f-pixel:'Press Start 2P',monospace;
   --r:18px; --wrap:1120px;
